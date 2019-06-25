@@ -4,7 +4,7 @@
 ##############################################################################
 
 #INPUT NEEDED: Download from GEO
-#Synovium=GSE46750, Subchondral=GSE51588, Meniscus=GSE98918, Cartilage=GSE57218
+#Synovium=GSE46750, Subchondral=GSE51588, Meniscus=GSE98918, Cartilage=GSE117999
 
 #OUTPUT: PreprocessingGSEA.RData - Expression data for GSEA analysis
 #OUTPUT: multiExpr - List with normalized gene expression data
