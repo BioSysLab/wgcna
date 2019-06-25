@@ -21,7 +21,7 @@ More specifically the following analyses can be performed:
 Before running the R scripts, the following data needs to be downloaded:
 
 Download from GEO
-Synovium=GSE46750, Subchondral bone=GSE51588, Meniscus=GSE98918, Cartilage=GSE57218
+Synovium=GSE46750, Subchondral bone=GSE51588, Meniscus=GSE98918, Cartilage=GSE117999
 
 Any questions/requests should be directed to:
 Michael Neidlin
